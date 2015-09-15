@@ -1,0 +1,6 @@
+name: clanwar
+version: 1
+cron:
+- description: cron_test
+  url:/service.php
+  schedule: "*/9 * * * *"
